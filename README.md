@@ -1,6 +1,8 @@
 # Curriculum_Vitae
 
 Welkom bij mijn **Online Curriculum Vitae**! Dit project is een interactieve en moderne website die mijn professionele achtergrond, vaardigheden, cursussen en ambities presenteert. Het vervangt mijn traditionele PDF-cv en biedt een dynamische ervaring voor bezoekers.
+Daarnaast ben ik altijd geintrigeerd in de nieuwste trends qua software technieken en pas ik deze graag toe aan mijn persoonlijke projecten.
+Denk hierbij aan AI, Quantum technologie, Development, Automatisering, etc.
 
 ---
 

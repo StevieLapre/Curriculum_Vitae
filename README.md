@@ -28,9 +28,18 @@ Bekijk mijn online cv live:
 
 ---
 
-## 🛠️ Technologieën
+## 🛠️ Technologieën:
+ - HTML
+ - CSS
+ - JavaScript
 
 Het cv is gebouwd met behulp van:
+ - Code editor: Cursor AI
+ - IDE: Cursor AI
+ - Git: GitHub
+ - Hosting: GitHub Pages
+ - v0 by vercel
+
 
 Heb je vragen of opmerkingen? Neem gerust contact met me op!
 

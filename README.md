@@ -47,3 +47,8 @@ Heb je vragen of opmerkingen? Neem gerust contact met me op!
 E-mail: stevielapre@gmail.com
 LinkedIn: linkedin.com/in/stevie-lapre
 GitHub: github.com/stevielapre
+
+---
+© 2024 Stevie Lapre. Alle rechten voorbehouden.
+Dit curriculum vitae en alle bijbehorende inhoud zijn intellectueel eigendom van Stevie Lapre. 
+Reproductie of distributie zonder voorafgaande schriftelijke toestemming is niet toegestaan.

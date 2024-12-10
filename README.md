@@ -49,6 +49,6 @@ LinkedIn: linkedin.com/in/stevie-lapre
 GitHub: github.com/stevielapre
 
 ---
-© 2024 Stevie Lapre. Alle rechten voorbehouden.
-Dit curriculum vitae en alle bijbehorende inhoud zijn intellectueel eigendom van Stevie Lapre. 
+© 2024 Stevie Lapré. Alle rechten voorbehouden.
+Dit curriculum vitae en alle bijbehorende inhoud zijn intellectueel eigendom van Stevie Lapré. 
 Reproductie of distributie zonder voorafgaande schriftelijke toestemming is niet toegestaan.

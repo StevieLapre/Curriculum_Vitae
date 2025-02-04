@@ -38,7 +38,7 @@ GEBRUIKSVOORWAARDEN:
    - Overtreders kunnen worden onderworpen aan:
      * Civielrechtelijke procedures
      * Strafrechtelijke vervolging
-     * Administratieve boetes tot €20 miljoen of 4% van de wereldwijde jaaromzet
+     * Administratieve boetes tot €1 miljoen of 4% van de wereldwijde jaaromzet
      * Schadevergoedingseisen
 
 7. Jurisdictie
@@ -46,3 +46,9 @@ GEBRUIKSVOORWAARDEN:
    - Geschillen zullen worden voorgelegd aan de bevoegde Nederlandse rechtbank
 
 Voor vragen over deze licentie of verzoeken tot gebruik kunt u contact opnemen met: stevielapre@gmail.com
+
+---
+
+## 🌐 Vertalingen
+
+**[Click here for the English version](https://github.com/StevieLearningRepositories/Curriculum_Vitae/blob/test/LICENSE_EN.md)**

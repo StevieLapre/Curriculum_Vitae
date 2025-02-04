@@ -18,7 +18,7 @@ Dit online cv is ontworpen om:
 ## 🚀 Live Versie
 
 Bekijk mijn online cv live:  
-**[Link naar de website](https://voorbeeldwebsite.com)**
+**[Link naar de website](https://stevielearningrepositories.github.io/Curriculum_Vitae/)**
 
 ---
 
@@ -36,11 +36,10 @@ Bekijk mijn online cv live:
  - JavaScript
 
 Het cv is gebouwd met behulp van:
- - Code editor: Cursor AI
- - IDE: Cursor AI
+ - Code editor: Visual Studio Code Insiders
+ - IDE: Visual Studio Code Insiders
  - Git: GitHub
  - Hosting: GitHub Pages
- - v0 by vercel
 
 
 Heb je vragen of opmerkingen? Neem gerust contact met me op!
@@ -54,3 +53,9 @@ GitHub: https://www.github.com/stevielapre
 © 2024 Stevie Lapré. Alle rechten voorbehouden.
 Dit curriculum vitae en alle bijbehorende inhoud zijn intellectueel eigendom van Stevie Lapré. 
 Reproductie of distributie zonder voorafgaande schriftelijke toestemming is niet toegestaan.
+
+---
+
+## 🌐 Vertalingen
+
+**[Click here for the English version](https://github.com/StevieLearningRepositories/Curriculum_Vitae/blob/test/README_EN.md)**

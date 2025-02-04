@@ -18,7 +18,7 @@ Dit online cv is ontworpen om:
 ## 🚀 Live Versie
 
 Bekijk mijn online cv live:  
-**[Link naar de website](https://voorbeeldwebsite.com)**
+**[Link naar de website](https://stevielearningrepositories.github.io/Curriculum_Vitae/)**
 
 ---
 

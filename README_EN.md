@@ -18,7 +18,7 @@ This online resume is designed to:
 ## 🚀 Live Version
 
 View my online resume live:  
-**[Link to the website](https://voorbeeldwebsite.com)**
+**[Link to the website](https://stevielearningrepositories.github.io/Curriculum_Vitae/)**
 
 ---
 

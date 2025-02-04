@@ -36,11 +36,10 @@ Bekijk mijn online cv live:
  - JavaScript
 
 Het cv is gebouwd met behulp van:
- - Code editor: Cursor AI
- - IDE: Cursor AI
+ - Code editor: Visual Studio Code Insiders
+ - IDE: Visual Studio Code Insiders
  - Git: GitHub
  - Hosting: GitHub Pages
- - v0 by vercel
 
 
 Heb je vragen of opmerkingen? Neem gerust contact met me op!

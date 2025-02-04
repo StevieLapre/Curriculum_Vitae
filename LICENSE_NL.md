@@ -46,3 +46,9 @@ GEBRUIKSVOORWAARDEN:
    - Geschillen zullen worden voorgelegd aan de bevoegde Nederlandse rechtbank
 
 Voor vragen over deze licentie of verzoeken tot gebruik kunt u contact opnemen met: stevielapre@gmail.com
+
+---
+
+## 🌐 Vertalingen
+
+**[Click here for the English version](https://github.com/StevieLearningRepositories/Curriculum_Vitae/blob/test/LICENSE.md)**

@@ -57,4 +57,4 @@ Reproduction or distribution without prior written permission is not allowed.
 
 ## 🌐 Translations
 
-**[Klik hier voor de Nederlandse versie](https://github.com/stevielapre/Curriculum_Vitae/blob/main/README_NL.md)**
+**[Klik hier voor de Nederlandse versie](https://github.com/StevieLearningRepositories/Curriculum_Vitae/blob/test/README_NL.md)**

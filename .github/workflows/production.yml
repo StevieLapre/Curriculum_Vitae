@@ -42,7 +42,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://www.stevielapre.nl
+      url: "https://www.stevielapre.nl"
     runs-on: ubuntu-latest
     needs: build
     steps:

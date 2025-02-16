@@ -4,42 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="/css/styles.css">
 </head>
 <body>
-    <header>
+    <header class="home-header">
         <div class="container">
             <h1>C.V. Stevie Lapré</h1>
-            <nav>
-                <ul>
-                    <li><a href="#">Journey</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Contact</a></li>
-                </ul>
-            </nav>
         </div>
     </header>
 
-    <main>
+    <main id="home-page" class="page">
         <div class="container">
-            <section class="hero">
+            <section class="intro">
                 <h2>Welcome to my Curriculum Vitae</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </section>
 
             <section class="features">
-                <div class="feature-card">
-                    <h3>Journey</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-                <div class="feature-card">
-                    <h3>About</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
-                <div class="feature-card">
-                    <h3>Contact</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div>
+                <a id="nav-link" href="pages/journey.html">
+                    <div class="feature-card">
+                        <h3>Journey</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                </a>
+                
+                <a id="nav-link" href="pages/about.html">
+                    <div class="feature-card">
+                        <h3>About</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                </a>
+
+                <a id="nav-link" href="pages/contact.html">
+                    <div class="feature-card">
+                        <h3>Contact</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    </div>
+                </a>
+
             </section>
         </div>
     </main>
@@ -49,6 +51,8 @@
             <p>&copy; 2025 Copyright. All rights reserved.</p>
         </div>
     </footer>
+
+    <script src="/animations/pages.js"></script>
 </body>
 </html>
 

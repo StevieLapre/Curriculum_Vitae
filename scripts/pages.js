@@ -6,3 +6,4 @@ document.getElementById('nav-link').addEventListener('click', function(event) {
         window.location.href = this.href;
     }, 500); 
 });
+

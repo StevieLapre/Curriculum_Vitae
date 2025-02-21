@@ -51,4 +51,6 @@ For questions about this license or requests for use, you can contact: stevielap
 
 ## 🌐 Translation
 
+<!--
 **[Klik hier voor de Nederlandse versie](https://github.com/StevieLearningRepositories/Curriculum_Vitae/blob/test/LICENSE_NL.md)**
+-->

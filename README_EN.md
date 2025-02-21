@@ -39,6 +39,7 @@ The resume is built using:
  - Code editor: Visual Studio Code Insiders
  - IDE: Visual Studio Code Insiders
  - Git: GitHub
+ - AI: Github Copilot
  - Hosting: GitHub Pages
 
 Do you have any questions or comments? Feel free to contact me!
@@ -57,4 +58,6 @@ Reproduction or distribution without prior written permission is not allowed.
 
 ## 🌐 Translations
 
+<!--
 **[Klik hier voor de Nederlandse versie](https://github.com/StevieLearningRepositories/Curriculum_Vitae/blob/test/README_NL.md)**
+-->

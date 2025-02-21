@@ -51,4 +51,6 @@ Voor vragen over deze licentie of verzoeken tot gebruik kunt u contact opnemen m
 
 ## 🌐 Vertalingen
 
+<!--
 **[Click here for the English version](https://github.com/StevieLearningRepositories/Curriculum_Vitae/blob/test/LICENSE_EN.md)**
+-->

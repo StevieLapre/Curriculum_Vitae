@@ -59,6 +59,4 @@ Reproductie of distributie zonder voorafgaande schriftelijke toestemming is niet
 
 ## 🌐 Vertalingen
 
-<!--
-**[Click here for the English version](https://github.com/StevieLearningRepositories/Curriculum_Vitae/blob/test/README_EN.md)**
--->
+**[Click here for the English version](README_EN.md)**

@@ -72,6 +72,7 @@ main {
     font-size: 2rem;
     font-style: bold;
     font-style: italic;
+    text-decoration: underline;
     margin-bottom: 1rem;
 }
 
@@ -83,6 +84,10 @@ main {
 .journey p {
     font-size: 1.1rem;
     margin-bottom: 1rem;
+}
+
+ul.list{
+    list-style-position: inside;
 }
 
 a:link {

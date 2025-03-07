@@ -171,25 +171,24 @@ footer {
     background-color: #000000; 
     color: #e3d9c6; 
     text-align: center;
-    padding: 1rem 0;
+    padding: 1rem 0.5;
     margin-top: auto;
 }
 
 .footer-container {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    text-align: justify;
+    width: 100%;
 }
 
-.footer-left,
-.footer-center,
-.footer-right {
-    flex: 1;
+.footer-center {
     text-align: center;
 }
 
 .footer-left {
     text-align: left;
+
 }
 
 .footer-right {

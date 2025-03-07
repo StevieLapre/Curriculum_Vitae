@@ -1,9 +1,11 @@
-document.getElementById('nav-link').addEventListener('click', function(event) {
-    event.preventDefault();
-    const homePage = document.getElementById('home-page');
-    homePage.classList.add('animate-out');
-    setTimeout(() => {
-        window.location.href = this.href;
-    }, 500); 
-});
-
+const navLink = document.getElementById('nav-link');
+if (navLink) {
+    navLink.addEventListener('click', function(event) {
+        event.preventDefault();
+        const homePage = document.getElementById('home-page');
+        homePage.classList.add('animate-out');
+        setTimeout(() => {
+            window.location.href = this.href;
+        }, 500);
+    });
+}

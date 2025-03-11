@@ -12,6 +12,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    text-align: center;
 }
 
 .container {
@@ -23,7 +24,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: #42614c; 
+    background-color:#fdd63a; 
     color: #FFFFFF; 
     padding: 1rem 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -51,7 +52,7 @@ header h1 {
 }
 
 /* Specific style for the journey header */
-.journey-header .container{
+.about-header .container{
     justify-content: center;
 }
 
@@ -62,25 +63,26 @@ main {
     background-color: #F5F5DC; 
 }
 
-.journey {
+.about {
     text-align: center;
     margin-bottom: 2rem;
 }
 
-.journey h2 {
+.about h2 {
     font-size: 2rem;
-    font-weight:1000;
+    font-weight: 1000;
     font-style: italic;
     text-decoration: underline;
     margin-bottom: 1rem;
+    text-align: center !important; 
 }
 
-.journey h3 {
+.about h3 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
 }
 
-.journey p {
+.about p {
     font-size: 1.1rem;
     margin-bottom: 1rem;
 }
@@ -111,8 +113,8 @@ a:active {
 
 /* Footer styles */
 footer {
-    background-color: #1e2c22; 
-    color: #e3d9c6; 
+    background-color: #f57729; 
+    color: #FFFFFF; 
     text-align: center;
     padding: 1rem 0.5;
     margin-top: auto;
@@ -121,7 +123,7 @@ footer {
 .footer-container {
     display: flex;
     justify-content: space-between;
-    text-align: justify;
+    align-items: center;
     width: 100%;
 }
 
@@ -135,9 +137,8 @@ footer {
 
 .footer-right {
     text-align: right;
-    
 }
 
 .footer-container a:hover {
-    color: #A68958 !important;
+    color: #5F021F !important;
 }

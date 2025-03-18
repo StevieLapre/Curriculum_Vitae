@@ -1,6 +1,6 @@
-const navLink = document.getElementById('nav-link');
-if (navLink) {
-    navLink.addEventListener('click', function(event) {
+const navLinks = document.querySelectorAll('.nav-link');
+navLinks.forEach(link => {
+    link.addEventListener('click', function(event) {
         event.preventDefault();
         const homePage = document.getElementById('home-page');
         homePage.classList.add('animate-out');
@@ -8,4 +8,4 @@ if (navLink) {
             window.location.href = this.href;
         }, 500);
     });
-}
+});

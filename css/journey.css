@@ -12,6 +12,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    user-select: none;
 }
 
 .container {
@@ -69,7 +70,7 @@ main {
 
 .journey h2 {
     font-size: 2rem;
-    font-weight:1000;
+    font-weight: bold;
     font-style: italic;
     text-decoration: underline;
     margin-bottom: 1rem;

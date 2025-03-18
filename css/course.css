@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: Jet Brains Mono, monospace;
+    font-family: 'JetBrains Mono', monospace;
     line-height: 1.6;
     color: #000000;
     display: flex;
@@ -24,11 +24,10 @@ body {
 
 /* Header styles */
 header {
-    background-color: #42614c; 
+    background-color: #444545; 
     color: #FFFFFF; 
     padding: 1rem 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    text-align: center;
 }
 
 header .container {
@@ -41,8 +40,8 @@ header h1 {
     font-size: 3rem;
 }
 
-/* Specific style for the journey header */
-.journey-header .container{
+/* Specific style for the home page header */
+.course-header .container{
     justify-content: center;
 }
 
@@ -51,33 +50,6 @@ main {
     flex-grow: 1;
     padding: 2rem 0;
     background-color: #F5F5DC; 
-}
-
-.journey {
-    text-align: center;
-    margin-bottom: 2rem;
-}
-
-.journey h2 {
-    font-size: 2rem;
-    font-weight: bold;
-    font-style: italic;
-    text-decoration: underline;
-    margin-bottom: 1rem;
-}
-
-.journey h3 {
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
-}
-
-.journey p {
-    font-size: 1.1rem;
-    margin-bottom: 1rem;
-}
-
-ul.list{
-    list-style-position: inside;
 }
 
 a:link {
@@ -102,7 +74,7 @@ a:active {
 
 /* Footer styles */
 footer {
-    background-color: #1e2c22; 
+    background-color: #c52727; 
     color: #e3d9c6; 
     text-align: center;
     padding: 1rem 0.5;
@@ -122,13 +94,13 @@ footer {
 
 .footer-left {
     text-align: left;
+
 }
 
 .footer-right {
     text-align: right;
-    
 }
 
 .footer-container a:hover {
-    color: #A68958 !important;
+    color: #602369 !important;
 }

@@ -68,6 +68,8 @@ main {
 .course h3 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
+    opacity: 1; /* Fixed invalid opacity value */
+    color: rgb(11, 155, 11);
 }
 
 .course p {
@@ -80,27 +82,28 @@ ul.list{
 }
 
 a:link {
-    text-decoration: underline;
-    color: inherit;
+    text-decoration: none;
+    color: darkgoldenrod;
 }
 
 a:visited {
     text-decoration: none;
-    color: inherit;
+    color: darkgoldenrod;
 }
 
 a:hover {
     text-decoration: underline;
     font-weight: bold;
     font-style: italic;
-    color: blue;
+    color: rgb(179, 4, 4);
     transform: scale(1.05);
-    transition: color 1.2s ease, font-weight 0.6s ease, font-style 0.6s ease;
+    transition: color 0.3s ease, font-weight 0.5s ease, font-style 0.5s ease;
 }
 
 a:active {
+    font-size: small;
     text-decoration: none;
-    color: inherit;
+    color: blue; 
 }
 
 /* Footer styles */
@@ -125,13 +128,34 @@ footer {
 
 .footer-left {
     text-align: left;
-
 }
 
 .footer-right {
     text-align: right;
 }
+.footer-container a:link{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: inherit;
+}
+
+.footer-container a:visited{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: inherit;
+}
+
+.footer-container a:active{
+    text-decoration: none;
+    color: inherit;
+    font-size: inherit;
+}
 
 .footer-container a:hover {
     color: #602369 !important;
+    text-decoration: none;
+    font-weight: none;
+    font-style: normal;
+    transform: none;
+    transition: none;
 }

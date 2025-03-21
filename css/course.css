@@ -52,8 +52,35 @@ main {
     background-color: #F5F5DC; 
 }
 
+.course {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.course h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    margin-bottom: 1rem;
+}
+
+.course h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.course p {
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+}
+
+ul.list{
+    list-style-position: inside;
+}
+
 a:link {
-    text-decoration: none;
+    text-decoration: underline;
     color: inherit;
 }
 
@@ -63,8 +90,12 @@ a:visited {
 }
 
 a:hover {
-    text-decoration: none;
-    color: inherit;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+    transform: scale(1.05);
+    transition: color 1.2s ease, font-weight 0.6s ease, font-style 0.6s ease;
 }
 
 a:active {

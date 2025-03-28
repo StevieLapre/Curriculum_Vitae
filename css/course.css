@@ -30,7 +30,7 @@ header {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-header .container {
+header.container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -47,7 +47,7 @@ header h1 {
 
 /* Main content styles */
 main {
-    flex-grow: 1;
+    flex: 1;
     padding: 2rem 0;
     background-color: #F5F5DC; 
 }
@@ -55,6 +55,8 @@ main {
 .course {
     text-align: center;
     margin-bottom: 2rem;
+    margin-left: auto;
+    padding-right: 100px;
 }
 
 .course h2 {
@@ -68,7 +70,7 @@ main {
 .course h3 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
-    opacity: 1; /* Fixed invalid opacity value */
+    opacity: 1;
     color: rgb(11, 155, 11);
 }
 
@@ -83,19 +85,19 @@ ul.list{
 
 a:link {
     text-decoration: none;
-    color: darkgoldenrod;
+    color: rgb(167, 150, 0);
 }
 
 a:visited {
     text-decoration: none;
-    color: darkgoldenrod;
+    color: rgb(167, 150, 0);
 }
 
 a:hover {
     text-decoration: underline;
     font-weight: bold;
     font-style: italic;
-    color: rgb(179, 4, 4);
+    color: blue;
     transform: scale(1.05);
     transition: color 0.3s ease, font-weight 0.5s ease, font-style 0.5s ease;
 }
@@ -103,7 +105,7 @@ a:hover {
 a:active {
     font-size: small;
     text-decoration: none;
-    color: blue; 
+    color: rgb(179, 4, 4); 
 }
 
 /* Footer styles */

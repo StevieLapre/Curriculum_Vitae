@@ -24,6 +24,8 @@ body {
 
 /* Header styles */
 header {
+    position: sticky;
+    top: 0;
     background-color: #42614c; 
     color: #FFFFFF; 
     padding: 1rem 0;
@@ -102,6 +104,8 @@ a:active {
 
 /* Footer styles */
 footer {
+    position: sticky;
+    bottom: 0;
     background-color: #1e2c22; 
     color: #e3d9c6; 
     text-align: center;

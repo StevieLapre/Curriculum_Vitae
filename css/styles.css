@@ -24,6 +24,9 @@ body {
 
 /* Header styles */
 header {
+    position: sticky;
+    top: 0;
+    z-index: 10; /* Verhoog de z-index van de header */
     background-color: #003366; 
     color: #FFFFFF; 
     padding: 1rem 0;
@@ -121,6 +124,7 @@ main {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 100px;
     padding-top: 6rem;
+    
 }
 
 .feature-card {
@@ -169,11 +173,15 @@ a:active {
 
 /* Footer styles */
 footer {
+    position: sticky;
+    bottom: 0;
+    z-index: 10; /* Verhoog de z-index van de footer */
     background-color: #000000; 
     color: #e3d9c6; 
     text-align: center;
     padding: 1rem 0.5;
     margin-top: auto;
+    
 }
 
 .footer-container {

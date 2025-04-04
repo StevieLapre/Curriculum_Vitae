@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/styles.css" loading="lazy">
 </head>
 <body>
     <header class="home-header">
         <div class="container">
             <h1>C.V. Stevie Lapré</h1>
-            <img src="media/images/Stevie.jpg" alt="Profile Picture" class="header-image" id="profileImage">
+            <img src="media/images/Stevie.jpg" alt="Profile Picture" class="header-image" id="profileImage" loading="lazy">
         </div>
             </header>
 
@@ -24,29 +24,30 @@
                     <br>The buttons below provide navigation to different sections, where I tell more about myself.
                     <br>Feel free to take a look!</p>
             </section>
+        </div>
 
+        <div class="container">
             <section class="features">
-                <a id="nav-link" href="pages/journey.html">
+                <a href="pages/journey.html">
                     <div class="feature-card">
                         <h3>Journey</h3>
                         <p>Let me take you on a journey through my story and experiences so far.</p>
                     </div>
                 </a>
                 
-                <a id="nav-link" href="pages/about.html">
+                <a href="pages/about.html">
                     <div class="feature-card">
                         <h3>About</h3>
                         <p>Let me truly introduce myself and show you who I am.</p>
                     </div>
                 </a>
 
-                <a id="nav-link" href="pages/contact.html">
+                <a href="pages/contact.html">
                     <div class="feature-card">
                         <h3>Contact</h3>
                         <p>Want to make contact?<br>You can do it here</p>
                     </div>
                 </a>
-
             </section>
         </div>
     </main>
@@ -70,9 +71,8 @@
         <img class="modal-content" id="modalImage">
     </div>
 
-    <script src="scripts/route.js"></script>
-    <script src="scripts/pages.js"></script>
-    <script src="scripts/profilesave.js"></script>
-    <script src="scripts/rightclick.js"></script>
+    <script type="module" src="/scripts/cache.js"></script>
+    <script type="module" src="scripts/profilesave.js"></script>
+    <script type="module" src="scripts/rightclick.js"></script>
 </body>
 </html>

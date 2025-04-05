@@ -26,7 +26,7 @@ body {
 header {
     position: sticky;
     top: 0;
-    z-index: 10; /* Verhoog de z-index van de header */
+    z-index: 10; 
     background-color: #003366; 
     color: #FFFFFF; 
     padding: 1rem 0;
@@ -175,7 +175,7 @@ a:active {
 footer {
     position: sticky;
     bottom: 0;
-    z-index: 10; /* Verhoog de z-index van de footer */
+    z-index: 10; 
     background-color: #000000; 
     color: #e3d9c6; 
     text-align: center;
